@@ -1,152 +1,151 @@
 <div align="center">
-
-# ¡Hola! 👋 Soy Jesús Ruiz
-
-### 🚀 Tech Lead & ML Engineer | Especialista en Python | Arquitecto de Proyectos
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jenaru0)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
-
+  <h1>¡Hola! 👋 Soy Jesús Ruiz</h1>
+  <h3>🚀 Tech Lead &amp; ML Engineer | Especialista en Python | Arquitecto de Proyectos</h3>
+  <p>
+    <a href="https://linkedin.com/in/tu-perfil">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/Jenaru0">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
+    </a>
+    <a href="mailto:tu-email@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
+    </a>
+  </p>
 </div>
 
----
+<hr>
 
-## 👨‍💻 Sobre mí
+<h2>👨‍💻 Sobre mí</h2>
+<ul>
+  <li>🚀 <strong>Tech Lead &amp; Project Manager</strong> especializado en Machine Learning</li>
+  <li>📍 Ubicación: <strong>Perú</strong> 🇵🇪</li>
+  <li>💼 Liderando equipos de desarrollo en proyectos de ML</li>
+  <li>🎯 Enfocado en arquitecturas escalables y código limpio</li>
+  <li>📚 Actualmente especializándome en <strong>MLOps</strong> y sistemas de producción</li>
+  <li>🌟 Apasionado por convertir datos en soluciones reales</li>
+</ul>
 
-- 🚀 **Tech Lead & Project Manager** especializado en Machine Learning
-- 📍 Ubicación: **Perú** 🇵🇪
-- 💼 Liderando equipos de desarrollo en proyectos de ML
-- 🎯 Enfocado en arquitecturas escalables y código limpio
-- 📚 Actualmente especializándome en **MLOps** y sistemas de producción
-- 🌟 Apasionado por convertir datos en soluciones reales
+<hr>
 
----
-
-## 🛠️ Stack Tecnológico
-
+<h2>🛠️ Stack Tecnológico</h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo">
 </div>
 
-### Machine Learning & Data Science
-
+<h3>Machine Learning &amp; Data Science</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo">&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo">
 </div>
 
----
+<hr>
 
-## 📊 Estadísticas de GitHub
-
+<h2>📊 Estadísticas de GitHub</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jenaru0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=es&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jenaru0&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jenaru0&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=tokyonight&amp;locale=es" height="150" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jenaru0&amp;layout=compact&amp;langs_count=5&amp;theme=tokyonight&amp;locale=es" height="150" alt="Top languages">
 </div>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jenaru0&locale=es&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Jenaru0&amp;mode=daily&amp;theme=tokyonight&amp;locale=es" height="150" alt="GitHub streak">
 </div>
 
----
+<hr>
 
-## 🏆 Proyectos Destacados
+<h2>🏆 Proyectos Destacados</h2>
 
-### 🎓 [Pipeline ML - Predicción de Rendimiento Académico](https://github.com/Jenaru0/Machine-Learning)
+<h3>🎓 Pipeline ML - Predicción de Rendimiento Académico</h3>
+<ul>
+  <li><strong>Rol:</strong> Tech Lead &amp; Project Manager</li>
+  <li><strong>Equipo:</strong> 5 desarrolladores</li>
+  <li><strong>Tecnologías:</strong> Python, scikit-learn, pandas, numpy</li>
+  <li><strong>Logro:</strong> 75% de precisión (R²), arquitectura modular escalable</li>
+  <li><strong>Impacto:</strong> Mejora del 9% vs modelos baseline</li>
+</ul>
 
-- **Rol**: Tech Lead & Project Manager
-- **Equipo**: 5 desarrolladores
-- **Tecnologías**: Python, scikit-learn, pandas, numpy
-- **Logro**: 75% de precisión (R²), arquitectura modular escalable
-- **Impacto**: Mejora del 9% vs modelos baseline
+<h3>📊 Análisis Estratégico SVR vs Ridge</h3>
+<ul>
+  <li><strong>Rol:</strong> Arquitecto Técnico Principal</li>
+  <li><strong>Enfoque:</strong> Comparación de modelos y toma de decisiones</li>
+  <li><strong>Resultado:</strong> Framework de selección de modelos documentado</li>
+</ul>
 
-### 📊 Análisis Estratégico SVR vs Ridge
+<h3>🔧 Arquitectura ML Modular</h3>
+<ul>
+  <li><strong>Rol:</strong> Diseñador de Sistemas</li>
+  <li><strong>Logro:</strong> Reducción del 40% en tiempo de desarrollo</li>
+  <li><strong>Tecnologías:</strong> Python, MLOps, Clean Architecture</li>
+</ul>
 
-- **Rol**: Arquitecto Técnico Principal
-- **Enfoque**: Comparación de modelos y toma de decisiones
-- **Resultado**: Framework de selección de modelos documentado
+<hr>
 
-### 🔧 Arquitectura ML Modular
+<h2>💡 Lo que me define</h2>
+<ul>
+  <li>✨ <strong>Liderazgo técnico hands-on</strong> – Código junto al equipo</li>
+  <li>📚 <strong>Aprendizaje continuo</strong> – Especialización en ML desde 2024</li>
+  <li>🎯 <strong>Enfoque en resultados</strong> – Decisiones basadas en datos</li>
+  <li>🎲 <strong>Dato curioso:</strong> He liderado equipos mientras programo activamente</li>
+  <li>🚀 <strong>Visión:</strong> Conectar la teoría académica con sistemas de producción</li>
+</ul>
 
-- **Rol**: Diseñador de Sistemas
-- **Logro**: Reducción del 40% en tiempo de desarrollo
-- **Tecnologías**: Python, MLOps, Clean Architecture
+<hr>
 
----
+<h2>🎯 Objetivos 2025</h2>
+<ul>
+  <li>🎓 <strong>Completar:</strong> Especialización en Machine Learning con implementaciones avanzadas</li>
+  <li>🚀 <strong>Dominar:</strong> Prácticas de MLOps y despliegue en producción</li>
+  <li>👥 <strong>Liderar:</strong> Equipos de alto rendimiento en proyectos ML complejos</li>
+  <li>📊 <strong>Construir:</strong> Soluciones de data science empresariales</li>
+  <li>🌟 <strong>Meta:</strong> Establecerme como ML Technical Leader reconocido</li>
+</ul>
 
-## 💡 Lo que me define
+<hr>
 
-- ✨ **Liderazgo técnico hands-on** - Código junto al equipo
-- � **Aprendizaje continuo** - Especialización en ML desde 2024
-- 🎯 **Enfoque en resultados** - Decisiones basadas en datos
-- 🎲 **Dato curioso**: He liderado equipos mientras programo activamente
-- 🚀 **Visión**: Conectar la teoría académica con sistemas de producción
-
----
-
-## 🎯 Objetivos 2025
-
-- 🎓 **Completar**: Especialización en Machine Learning con implementaciones avanzadas
-- 🚀 **Dominar**: Prácticas de MLOps y despliegue en producción
-- 👥 **Liderar**: Equipos de alto rendimiento en proyectos ML complejos
-- 📊 **Construir**: Soluciones de data science empresariales
-- 🌟 **Meta**: Establecerme como ML Technical Leader reconocido
-
----
-
-## 🔥 Mis estadísticas
-
+<h2>🔥 Mis estadísticas</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Jenaru0&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Jenaru0&amp;theme=tokyonight&amp;column=-1&amp;row=1&amp;no-bg=false&amp;no-frame=false" height="150" alt="GitHub trophies">
 </div>
 
----
+<hr>
 
-## 🤝 ¡Conectemos!
-
+<h2>🤝 ¡Conectemos!</h2>
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=100000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  <a href="https://linkedin.com/in/tu-perfil">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn">
+  </a>
+  <a href="mailto:tu-email@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="Gmail">
+  </a>
+  <a href="https://github.com/Jenaru0">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=100000&style=for-the-badge" height="35" alt="GitHub">
+  </a>
 </div>
 
----
+<hr>
 
-### 💼 Abierto a:
-
-- **Oportunidades de liderazgo técnico** en proyectos ML/AI
-- **Colaboraciones en proyectos ML** con equipos innovadores
-- **Mentoría y conocimiento compartido** en Python/ML
-- **Charlas técnicas** sobre ingeniería ML y liderazgo
+<h3>💼 Abierto a:</h3>
+<ul>
+  <li><strong>Oportunidades</strong> de liderazgo técnico en proyectos ML/AI</li>
+  <li><strong>Colaboraciones</strong> en proyectos ML con equipos innovadores</li>
+  <li><strong>Mentoría</strong> y talleres de Python/ML</li>
+  <li><strong>Charlas técnicas</strong> sobre ingeniería ML y liderazgo</li>
+</ul>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jenaru0.Jenaru0&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jenaru0.Jenaru0" alt="Visitor Badge">
 </div>
 
----
+<hr>
 
 <div align="center">
-
-### _"Liderando a través del código, inspirando a través de la innovación"_ 🚀
-
-**¡Disponible para proyectos emocionantes de ML y oportunidades de liderazgo técnico!**
-
+  <em>"Liderando a través del código, inspirando a través de la innovación"</em> 🚀<br>
+  <strong>¡Disponible para proyectos emocionantes de ML y oportunidades de liderazgo técnico!</strong>
 </div>
