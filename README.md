@@ -14,8 +14,6 @@
 
 ## 👨‍💻 Sobre mí
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 - 🚀 **Tech Lead & Project Manager** especializado en Machine Learning
 - 📍 Ubicación: **Perú** 🇵🇪
 - 💼 Liderando equipos de desarrollo en proyectos de ML
