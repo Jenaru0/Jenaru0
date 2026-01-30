@@ -1,76 +1,51 @@
-<h1 align="center">¡Hola! 👋 Soy Jesús Ruiz</h1>
-<p align="center" style="font-style: italic; color: #555;">Front‑End Developer & Tech Lead</p>
+# ¡Hola! Soy Jhonatan Jesus 👋
+
+### 👨‍💻 Estudiante de Ingeniería de Sistemas | Entusiasta de la IA | Gamer & Guitarrista
+
+Bienvenido a mi rincón de GitHub. Soy un estudiante de 9no ciclo en la **Universidad Nacional de Cañete (UNDC)** apasionado por resolver problemas mediante el desarrollo de software y la inteligencia artificial. Me enfoco en crear soluciones eficientes con una estética **minimalista**.
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🚀 Proyectos Actuales
 
-Soy un desarrollador apasionado por la experiencia de usuario, con experiencia en Vue, TypeScript y Node.js. Combino diseño de interfaces con buenas prácticas de ingeniería para crear aplicaciones rápidas, accesibles y mantenibles.
-
-- 🌱 Actualmente aprendiendo…  
-  - Vue 3 Composition API  
-  - CI/CD con GitHub Actions  
-- 👯 Me encanta colaborar en proyectos open‑source  
-- ✔ Pregúntame lo que quieras, estaré encantado de ayudar  
-- 🎯 Fuera de la programación: diseño en Figma, música y lectura técnica  
-- 📫 Contáctame: jesus.ruiz@example.com
+- **🎓 Tesis de Grado:** Desarrollando un sistema de **Reconocimiento facial con Deep Learning** para optimizar la gestión académica y seguridad en la UNDC.
+- **🎮 OMNIA:** Administrador y desarrollador de mi propio servidor de **Minecraft**.
+- **🛠️ RSU:** Colaborando en proyectos de Responsabilidad Social Universitaria con **NUBETEC S.A.C.**
 
 ---
 
-## 🛠️ Mis habilidades
+## 🛠️ Tecnologías & Herramientas
 
-### Lenguajes y Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="TS"> 
-  <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="JS"> 
-  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="Vue 3"> 
-  <img src="https://skillicons.dev/icons?i=html,css" height="30" alt="HTML CSS"> 
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js">
-</p>
-
-### Otras herramientas
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,github" height="30" alt="Git, Docker, GitHub"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma"> 
-  <img src="https://skillicons.dev/icons?i=vite,tailwind" height="30" alt="Vite, TailwindCSS">
-</p>
+| Categoría | Herramientas |
+| :--- | :--- |
+| **Lenguajes** | Python, JavaScript, Java |
+| **IA & Data** | Deep Learning, OpenCV, TensorFlow |
+| **Herramientas** | Git, Docker, Linux |
+| **Entorno** | ASUS TUF Gaming F15 💻 |
 
 ---
 
-## 🌟 Proyectos destacados
+## 🎨 Sobre mí
 
-| Proyecto | Descripción |
-|--------|-------------|
-| **[dela‑frontend](https://github.com/Jenaru0/dela-frontend)** | SPA en Vue 3 + TypeScript para plataforma de gestión. Estado global con Pinia. <br> <img src="https://img.shields.io/badge/Deploy-Netlify-blue?style=for-the-badge" height="20" /> |
-| **[ecommerce‑fullstack](https://github.com/Jenaru0/ecommerce-fullstack)** | Monorepo completo: frontend Vue PWA + backend API en Node.js/TS. Carrito, filtros y administración. <br> <img src="https://img.shields.io/badge/CI–CD-GitHub_Actions-green?style=for-the-badge" height="20" /> |
-| **[Sistema‑Experto‑Psicolog‑a](https://github.com/Jenaru0/Sistema-Experto-Psicolog-a)** | Motor de reglas en JavaScript para sistema experto. Ideal para lógica declarativa y modular. <br> <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge" height="20" /> |
-
----
-
-## 📊 Mis estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jenaru0&show_icons=true&theme=tokyonight&count_private=true&locale=es" height="140" alt="GitHub Stats"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jenaru0&layout=compact&langs_count=5&theme=tokyonight&locale=es" height="140" alt="Top Languages">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jenaru0&mode=daily&theme=tokyonight&locale=es" height="120" alt="GitHub Streak">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jenaru0&theme=tokyonight" height="120" alt="GitHub Trophies">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jenaru0.Jenaru0" alt="Visitor Badge">
-</p>
+- 🎸 Cuando no estoy codeando, probablemente me encuentres practicando con mi **guitarra**.
+- 🎮 Fan de los mundos abiertos y la estrategia: **Dota 2**, **ARK**, y **The Last of Us Part II**.
+- 🐈 Team Gatos.
+- ⚡ Siempre buscando aprender algo nuevo sobre modelos de IA y arquitecturas modernas.
 
 ---
 
-## 📨 ¿Conectamos?
+## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <a href="https://linkedin.com/in/tu-perfil" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" alt="LinkedIn"></a>
-  <img width="8">
-  <a href="mailto:jesus.ruiz@example.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&style=for-the-badge" height="25" alt="Email"></a>
-  <img width="8">
-  <a href="https://github.com/Jenaru0"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=100000&style=for-the-badge" height="25" alt="GitHub"></a>
-</p>
+![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9)
 
 ---
 
-<p align="center"><em>"Construyendo experiencias web inolvidables, un commit a la vez"</em> 🚀</p>
+## 📫 Contacto
+
+- **LinkedIn:** [Tu Perfil](https://linkedin.com/in/tu-usuario)
+- **Spotify:** [Escuchando a Bad Bunny 🎧](https://open.spotify.com/user/tu-usuario)
+
+---
+*“El código es poesía en movimiento, siempre que sea minimalista.”*
