@@ -35,7 +35,6 @@ Desarrollador especializado en la creación de aplicaciones web completas, integ
 
 ## 📫 Contacto
 
-* **LinkedIn:** [Tu Perfil de LinkedIn](https://linkedin.com/in/tu-usuario)
 * **Portafolio:** [dela.episundc.pe](https://dela.episundc.pe)
 * **GitHub:** [github.com/Jenaru0](https://github.com/Jenaru0)
 * **Email:** jhonatanjesusnapangaruiz@gmail.com
