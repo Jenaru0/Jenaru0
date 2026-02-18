@@ -1,51 +1,33 @@
-# ¡Hola! Soy Jhonatan Jesus 👋
+# Jhonatan Jesus Napanga Ruiz
 
-### 👨‍💻 Estudiante de Ingeniería de Sistemas | Entusiasta de la IA | Gamer & Guitarrista
+### 👨‍💻 Estudiante de 9no Ciclo de Ingeniería de Sistemas | UNDC
 
-Bienvenido a mi rincón de GitHub. Soy un estudiante de 9no ciclo en la **Universidad Nacional de Cañete (UNDC)** apasionado por resolver problemas mediante el desarrollo de software y la inteligencia artificial. Me enfoco en crear soluciones eficientes con una estética **minimalista**.
-
----
-
-## 🚀 Proyectos Actuales
-
-- **🎓 Tesis de Grado:** Desarrollando un sistema de **Reconocimiento facial con Deep Learning** para optimizar la gestión académica y seguridad en la UNDC.
-- **🎮 OMNIA:** Administrador y desarrollador de mi propio servidor de **Minecraft**.
-- **🛠️ RSU:** Colaborando en proyectos de Responsabilidad Social Universitaria con **NUBETEC S.A.C.**
+Desarrollador enfocado en la creación de soluciones tecnológicas eficientes y escalables. Especializado en la implementación de arquitecturas modernas y modelos de Inteligencia Artificial para el sector público y académico.
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
+## 🚀 Proyectos Destacados
+
+* **SIGIM (Sistema Integral de Gestión de Incidencias Municipales):** Plataforma para la modernización de servicios ciudadanos y control de eficiencia operativa.
+* **Tesis de Grado:** Sistema de **Reconocimiento facial con Deep Learning** para optimizar la gestión y seguridad académica en la **UNDC**.
+* **Colaboración RSU:** Desarrollo de proyectos de Responsabilidad Social Universitaria en conjunto con **NUBETEC S.A.C.**.
+
+---
+
+## 🛠️ Tech Stack
 
 | Categoría | Herramientas |
 | :--- | :--- |
 | **Lenguajes** | Python, JavaScript, Java |
 | **IA & Data** | Deep Learning, OpenCV, TensorFlow |
-| **Herramientas** | Git, Docker, Linux |
-| **Entorno** | ASUS TUF Gaming F15 💻 |
-
----
-
-## 🎨 Sobre mí
-
-- 🎸 Cuando no estoy codeando, probablemente me encuentres practicando con mi **guitarra**.
-- 🎮 Fan de los mundos abiertos y la estrategia: **Dota 2**, **ARK**, y **The Last of Us Part II**.
-- 🐈 Team Gatos.
-- ⚡ Siempre buscando aprender algo nuevo sobre modelos de IA y arquitecturas modernas.
-
----
-
-## 📊 Estadísticas de GitHub
-
-![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9)
+| **Herramientas** | Git, Docker, Linux, Arquitecturas Serverless |
 
 ---
 
 ## 📫 Contacto
 
-- **LinkedIn:** [Tu Perfil](https://linkedin.com/in/tu-usuario)
-- **Spotify:** [Escuchando a Bad Bunny 🎧](https://open.spotify.com/user/tu-usuario)
+* **LinkedIn:** [linkedin.com/in/jhonatan-napanga](https://linkedin.com/in/tu-usuario)
+* **Portafolio:** [dela.episundc.pe](https://dela.episundc.pe)
 
 ---
-*“El código es poesía en movimiento, siempre que sea minimalista.”*
+*“El código es eficiencia en movimiento.”*
